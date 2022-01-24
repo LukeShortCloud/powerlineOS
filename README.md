@@ -33,3 +33,7 @@ A Chromium OS fork designed to test experimental features.
     $ ./build_packages --nowithdebug --board=${BOARD}
     $ ./build_image --board=${BOARD} --noenable_rootfs_verification dev
     ```
+
+## License
+
+[Apache Software License v2.0](LICENSE)
